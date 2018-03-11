@@ -1,0 +1,5 @@
+Average_revenue_change: $-5955 
+Greatest_decrease_in_revenue: Jun-2014 $-1947745
+Greatest_increase_in_revenue: Jul-2014 $1645140
+Total_months: 86 
+Total_revenue: $36973911 
